@@ -1,0 +1,16 @@
+Reading message file
+Waiting for connections
+New user abc logging on at Mar 19, 2017 01:44 AM from 127.0.0.1
+There are 1 users connected
+New user aa logging on at Mar 19, 2017 01:44 AM from 127.0.0.1
+There are 2 users connected
+User aa disconnected at Mar 19, 2017 01:45 AM
+There are 1 users connected
+User abc disconnected at Mar 19, 2017 01:45 AM
+There are 0 users connected
+Server shutting down...
+No users connected
+Peak connections this session: 2
+Total connections this session: 2
+Saving user messages
+Closing log file
